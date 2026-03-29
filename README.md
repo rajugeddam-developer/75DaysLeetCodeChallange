@@ -55,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Matrix
 |  |
 | ------- |
