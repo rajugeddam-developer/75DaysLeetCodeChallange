@@ -10,6 +10,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -50,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
