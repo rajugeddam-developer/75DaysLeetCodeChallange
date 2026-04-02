@@ -12,6 +12,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -68,6 +69,7 @@
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Union-Find
 |  |
 | ------- |
