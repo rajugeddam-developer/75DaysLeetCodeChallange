@@ -60,6 +60,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -103,5 +104,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
