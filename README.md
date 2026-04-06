@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1470-shuffle-the-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
