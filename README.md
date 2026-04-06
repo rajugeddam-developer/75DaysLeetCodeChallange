@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0874-walking-robot-simulation) |
 | [1470-shuffle-the-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1470-shuffle-the-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2573-find-the-string-with-lcp) |
@@ -25,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
