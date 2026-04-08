@@ -18,6 +18,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,9 @@
 | [0874-walking-robot-simulation](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajugeddam-developer/75DaysLeetCodeChallange/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
